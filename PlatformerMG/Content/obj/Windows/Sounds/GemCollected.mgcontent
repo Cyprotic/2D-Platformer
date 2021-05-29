@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/GemCollected.wma</SourceFile>
+  <SourceTime>2021-02-03T19:55:58+00:00</SourceTime>
+  <DestFile>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/bin/Windows/Sounds/GemCollected.xnb</DestFile>
+  <DestTime>2021-05-16T13:01:58.2856305+01:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer0_0.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer0_1.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer0_2.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer1_0.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer1_1.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer1_2.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer2_0.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer2_1.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Backgrounds/Layer2_2.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Fonts/gameFont.spritefont</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Menus/gameoverMenu.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Menus/gameplay.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Menus/StartMenu.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Overlays/you_died.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Overlays/you_lose.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Overlays/you_win.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/ExitReached.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/GemCollected.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/MonsterKilled.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/Music.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/PlayerFall.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/PlayerJump.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/PlayerKilled.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sounds/Powerup.wma</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Gem.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterA/Idle.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterA/Run.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterB/Idle.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterB/Run.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterC/Idle.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterC/Run.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterD/Idle.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/MonsterD/Run.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Player/Celebrate.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Player/Die.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Player/Idle.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Player/Jump.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Sprites/Player/Run.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA0.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA1.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA2.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA3.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA4.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA5.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockA6.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockB0.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/BlockB1.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/Exit.png</File>
+    <File>C:/Users/josea/Desktop/PlatformerMG/PlatformerMG/Content/Tiles/Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

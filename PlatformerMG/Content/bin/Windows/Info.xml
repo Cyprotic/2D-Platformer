@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+  <EnemyInfo>
+    <Speed>100</Speed>
+	<Speed2>200</Speed2>
+	<Speed3>300</Speed3>
+  </EnemyInfo> 
+
+  <GemInfo>
+    <BounceHeight>0.18</BounceHeight>
+    <BounceRate>3.0</BounceRate>
+    <Color>
+      <R>255</R>
+      <G>0</G>
+      <B>0</B>
+      <A>127</A>
+    </Color>
+  </GemInfo>
+  
+</GameInfo>
